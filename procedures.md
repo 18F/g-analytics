@@ -6,5 +6,16 @@
 
 
 ## For each teammate 
-* If you don't have a Google Analytics account, set one up.  
-* Request access to the 18F GA account
+* Gray will grant access
+
+
+## For clients
+* Deliver Dashboard of Google Analytics for their product 
+* List of important links 
+* Short 'How-To'  
+
+
+## To Process
+* A/B Testing 
+* How to include as features for clients
+* 
