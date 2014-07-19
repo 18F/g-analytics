@@ -18,8 +18,8 @@
 ## Products
 * fbopen.gsa.gov (api.data.gov, ?GA?, asked about GWT)
 * notalone.gov (GA, asked AS about GWT)
-* Air Force Small Business Hub (GA, )
-* PIF Application (GA, )
+* Air Force Small Business Hub (GA, asked about GWT, GA )
+* PIF Application (?GA?)
 
 
 
