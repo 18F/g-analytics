@@ -16,7 +16,7 @@
 * 18f.github.io/doi-extractives-data (GWT, pull request for GA)
 
 ### Products
-* fbopen.gsa.gov (api.data.gov, ?GA?, asked about GWT)
+* fbopen.gsa.gov (api.data.gov, issues for GA and GWT)
 * notalone.gov (GA, PR for GWT)
 * Air Force Small Business Hub (GA, asked about GWT and may have gotten)
 * PIF Application (?GA?)
