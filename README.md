@@ -5,17 +5,17 @@
 
 
 ## 18F Properties
-* 18f.gsa.gov (GA, GWT - pull request)
+* 18f.gsa.gov (GA, GWT (needs confirming))
 * 18fblog.tumblr.com (GA, )
 * 18f.github.io
 * api.data.gov (GA, GWT)
 * 18f.github.io/API-All-the-X (GA, GWT)
-* 18f.github.io/API-Usability-Testing (GWT)
-* 18f.github.io/open-source-program (GWT)
+* 18f.github.io/API-Usability-Testing (GA (part of /dev program), GWT)
+* 18f.github.io/open-source-program (GA, GWT)
 * 18f.github.io/ifgovthenthat (GWT - asked LB about GA)
 * 18f.github.io/doi-extractives-data (GWT, pull request for GA)
 
-## Products
+### Products
 * fbopen.gsa.gov (api.data.gov, ?GA?, asked about GWT)
 * notalone.gov (GA, asked AS about GWT)
 * Air Force Small Business Hub (GA, asked about GWT and may have gotten)
