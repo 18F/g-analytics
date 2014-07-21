@@ -12,7 +12,7 @@
 * 18f.github.io/API-All-the-X (GA, GWT)
 * 18f.github.io/API-Usability-Testing (GA (part of /dev program), GWT)
 * 18f.github.io/open-source-program (GA, GWT)
-* 18f.github.io/ifgovthenthat (GWT - asked LB about GA)
+* 18f.github.io/ifgovthenthat (GWT, GA)
 * 18f.github.io/doi-extractives-data (GWT, pull request for GA)
 
 ### Products
