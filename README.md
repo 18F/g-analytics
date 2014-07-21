@@ -6,14 +6,14 @@
 
 ## 18F Properties
 * 18f.gsa.gov (GA, GWT (needs confirming))
-* 18fblog.tumblr.com (GA, )
+* 18fblog.tumblr.com (GA)
 * 18f.github.io
 * api.data.gov (GA, GWT)
 * 18f.github.io/API-All-the-X (GA, GWT)
 * 18f.github.io/API-Usability-Testing (GA (part of /dev program), GWT)
 * 18f.github.io/open-source-program (GA, GWT)
-* 18f.github.io/ifgovthenthat (GWT, GA)
-* 18f.github.io/doi-extractives-data (GWT, pull request for GA)
+* 18f.github.io/ifgovthenthat (GA, GWT)
+* 18f.github.io/doi-extractives-data (GA, GWT)
 
 ### Products
 * fbopen.gsa.gov (api.data.gov, issues for GA and GWT)
