@@ -1,4 +1,8 @@
 
+
+* auto-gen TOC:
+{:toc}
+
 ## Best Practices 
 * Ensure every 18F project incorporates the team GA tag.
 * Ensure that every 18F project incorporates the Digital Analytics Program GA tag.  
@@ -19,3 +23,4 @@
 * A/B Testing 
 * How to include as features for clients
 * 
+
