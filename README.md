@@ -5,7 +5,7 @@
 
 
 ## 18F Properties
-* 18f.gsa.gov (GA, GWT (needs confirming))
+* 18f.gsa.gov (GA, GWT (still breaking))
 * 18fblog.tumblr.com (GA)
 * 18f.github.io
 * api.data.gov (GA, GWT)
@@ -16,9 +16,9 @@
 * 18f.github.io/doi-extractives-data (GA, GWT)
 
 ### Products
-* fbopen.gsa.gov (api.data.gov, issues for GA and GWT)
+* fbopen.gsa.gov (GA, api.data.gov, issue for GWT)
 * notalone.gov (GA, PR for GWT)
-* Air Force Small Business Hub (GA, asked about GWT and may have gotten)
+* Air Force Small Business Hub (GA, GWT)
 * PIF Application (?GA?)
 
 
