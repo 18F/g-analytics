@@ -24,3 +24,6 @@ Three main areas need further fleshing out: tracking the implementation of the D
 ## Material
 * https://www.youtube.com/watch?v=90mhs1ENdCo&feature=youtu.be
 * 
+
+## Other To Do 
+* Enable GSA users to access the Google Developer Console so as to be able to hit the api.  
