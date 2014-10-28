@@ -20,6 +20,7 @@
 * 18f.github.io/C2/
 * 18f.github.io/fbopen/
 * 18f.github.io/fbopen-docs/
+* 18f.github.io/consulting/
 
 ### Products
 * fbopen.gsa.gov (GA, api.data.gov, issue for GWT)
