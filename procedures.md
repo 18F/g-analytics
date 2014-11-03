@@ -25,5 +25,24 @@
 ## To Process
 * A/B Testing 
 * How to include as features for clients
-* 
+* Questions for the below
+  * Does it matter if I choose HTTP or HTTPS when setting up? 
+  * 
+  * 
+  * 
+  * 
+
+
+### Adding 18F's Google Analytics - Details
+* Notify Gray Brooks of the need by posting in the `analytics` channel in Slack.  
+* He will generate a new property in the 18F profile and respond with the code snippet.  
+
+
+
+### Adding DAP code - Details  
+
+### Adding Google Webmaster Tools - Details   
+
+
+
 
