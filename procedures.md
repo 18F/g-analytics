@@ -4,7 +4,7 @@
 ## Best Practices 
 * Ensure every 18F project [incorporates the team GA tag](https://github.com/18F/analytics/blob/master/procedures.md#adding-18fs-google-analytics---details).
 * Ensure that every 18F project [incorporates the Digital Analytics Program GA tag](https://github.com/18F/analytics/blob/master/procedures.md#adding-dap-code---details).  
-* Ensure that every program is [registered with one or more webmaster tools](https://github.com/18F/analytics/blob/master/procedures.md#adding-google-webmaster-tools---details) (e.g. [Google's](https://www.google.com/webmasters/tools/home?hl=en), [Bing's](http://www.bing.com/toolbox/webmaster)).  
+* Ensure that every program is [registered with one or more webmaster tools](https://github.com/18F/analytics/blob/master/procedures.md#adding-google-webmaster-tools---details).  
 
 
 ## Google Webmaster Tools 
