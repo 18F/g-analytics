@@ -2,9 +2,9 @@
 
 
 ## Best Practices 
-* Ensure every 18F project incorporates the team GA tag.
-* Ensure that every 18F project incorporates the Digital Analytics Program GA tag.  
-* Ensure that every program is registered with one or more webmaster tools (e.g. [Google's](https://www.google.com/webmasters/tools/home?hl=en), [Bing's](http://www.bing.com/toolbox/webmaster)).  
+* Ensure every 18F project [incorporates the team GA tag](https://github.com/18F/analytics/blob/master/procedures.md#adding-18fs-google-analytics---details).
+* Ensure that every 18F project [incorporates the Digital Analytics Program GA tag](https://github.com/18F/analytics/blob/master/procedures.md#adding-dap-code---details).  
+* Ensure that every program is [registered with one or more webmaster tools](https://github.com/18F/analytics/blob/master/procedures.md#adding-google-webmaster-tools---details) (e.g. [Google's](https://www.google.com/webmasters/tools/home?hl=en), [Bing's](http://www.bing.com/toolbox/webmaster)).  
 
 
 ## Google Webmaster Tools 
@@ -22,16 +22,13 @@
 * Short 'How-To'  
 
 
-## To Process
+## Notes To Process
 * A/B Testing 
 * How to include as features for clients
 * Questions for the below
   * Does it matter if I choose HTTP or HTTPS when setting up? 
-  * 
-  * 
-  * 
-  * 
-
+  * What other customizations do we want to make to the 18F snippet?  
+  * Do we want to centrally host it?  
 
 ### Adding 18F's Google Analytics - Details
 * Notify Gray Brooks of the need by posting in the `analytics` channel in Slack.  
