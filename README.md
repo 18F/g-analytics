@@ -22,6 +22,7 @@
 * 18f.github.io/fbopen-docs/
 * 18f.github.io/consulting/
 * mirage.gsa.gov
+* http://18f.github.io/hackathontrainingday/hacks
 
 ### Products
 * fbopen.gsa.gov (GA, api.data.gov, issue for GWT)
