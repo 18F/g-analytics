@@ -38,7 +38,13 @@
 
 ### Adding DAP code - Details  
 
+1. The appropriate DAP code can usually be found by looking at the homepage of the relevant agency (e.g. www.treasury.gov for myra.treasury.gov).  The code should be reusable as is, though it may be preferrable to re-host the snippet on the same servers as the new site.  
+2. After 24 hours, results should begin appearing in the Gov-Wide Main Reporting Profile.  To ensure that the data is also included in the agency profile, email dap@gsa.gov with the new domain or subdomain that needs to be rolled into the agency profiles.  
+3. Ask DAP for the agency point of contact and email them (cc'ing DAP@gsa.gov) to inform them of the new site and the implementation of the DAP cod on it.  
+
+
 ### Adding Google Webmaster Tools - Details   
+
 
 
 
