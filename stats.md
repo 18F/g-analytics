@@ -8,6 +8,9 @@
 * What % of CFO-Act agencies 
 
 
+## Notes
+* What about .mils
+* What about .us, .org, .com, etc...
 
 
 
