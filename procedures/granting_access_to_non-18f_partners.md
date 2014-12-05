@@ -2,4 +2,6 @@ Any 18F project can choose to grant access to their project's google analytics t
 
 Then notify Gray Brooks (gray.brooks@gsa.gov or via the #analytics channel in Slack) and he can give them access.  They will receive an email notification.  
 
+It is incumbent on the project team to track when analytics access should be removed.  If a partner moves on and should no longer have access, the 18F team needs to contact Gray Brooks and specify that access should be rescinded.  
+
 * *Note that we are not currently in a position to grant access to Digital Analytics Program data to 3rd parties.*  
