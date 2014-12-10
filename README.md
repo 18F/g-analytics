@@ -23,7 +23,10 @@
 * 18f.github.io/consulting/
 * mirage.gsa.gov
 * http://18f.github.io/hackathontrainingday/hacks
+* https://18f.github.io/us-gov-digital-service-design-manual/
 * https://myra.treasury.gov/
+* https://useiti.doi.gov/
+
 
 ### Products
 * fbopen.gsa.gov (GA, api.data.gov, issue for GWT)
