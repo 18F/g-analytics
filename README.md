@@ -21,6 +21,7 @@
 * 18f.github.io/fbopen/
 * 18f.github.io/fbopen-docs/
 * 18f.github.io/consulting/
+* https://18f.github.io/fbopen-widget
 * mirage.gsa.gov
 * http://18f.github.io/hackathontrainingday/hacks
 * https://18f.github.io/us-gov-digital-service-design-manual/
