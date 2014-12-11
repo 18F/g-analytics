@@ -27,6 +27,8 @@
 * https://18f.github.io/us-gov-digital-service-design-manual/
 * https://myra.treasury.gov/
 * https://useiti.doi.gov/
+* http://18f.github.io/microsite-template-18f/
+* http://18f.github.io/hourofcode/
 
 
 ### Products
