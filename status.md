@@ -1,7 +1,7 @@
 
-Active 
+## Active 
 
-| domain  | GA  | Tracking Code  | DAP  | GWT  |
+| Public Domains  | GA  | Tracking Code  | DAP  | GWT  |
 |---|---|---|---|---|
 |  https://api.data.gov | x  |   | x  |  x |
 | https://18f.gsa.gov  |  x |   | x  |   |
@@ -32,10 +32,10 @@ Active
 | https://18f.github.io/open-source-program |  x |   |  No |  x |
 | https://18f.github.io/us-gov-digital-service-design-manual/ |   |   | No  |   |
 
-Inactive
+## Inactive
 
 
-| domain  | GA  | Tracking Code  | DAP  | GWT  |
+| Public Domains  | GA  | Tracking Code  | DAP  | GWT  |
 |---|---|---|---|---|
 | https://18fblog.tumblr.com  |  x |   | No  |   |
 | http://sbhub.wbi-icc.com/  | x  |   | No  |  x |
