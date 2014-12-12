@@ -3,39 +3,39 @@ Active
 
 | domain  | GA  | Tracking Code  | DAP  | GWT  |
 |---|---|---|---|---|
-|  https://api.data.gov | x  |   |   |   |
-| https://18f.gsa.gov  |  x |   |   |   |
-| https://mirage.gsa.gov  | x  |   |   |   |
-| https://myra.treasury.gov/  | x  |   |   |   |
-| https://notalone.gov |  x |   |   |   |
-| https://pif.gsa.gov |  x |   |   |   |
-| https://useiti.doi.gov/  | x  |   |   |   |
-| https://foia.18f.us  |  x |   |   |   |
-| https://midas.18f.us  |  x |   |   |   |
-| https://18f.github.io |   |   |   |   |
-| https://18f.github.io/aaa |   |   |   |   |
-| https://18f.github.io/API-All-the-X | x  |   |   |   |
-| https://18f.github.io/API-Usability-Testing | x  |   |   |   |
-| https://18f.github.io/C2 |   |   |   |   |
-| https://18f.github.io/consulting |   |   |   |   |
-| https://18f.github.io/dashboard |   |   |   |   |
-| https://18f.github.io/doi-extractives-data | x  |   |   |   |
-| https://18f.github.io/ifgovthenthat |  x |   |   |   |
-| https://18f.github.io/fbopen |   |   |   |   |
-| https://18f.github.io/fbopen-docs |   |   |   |   |
-| https://18f.github.io/fbopen-widget |   |   |   |   |
-| https://18f.github.io/hackathontrainingday/hacks |   |   |   |   |
-| https://18f.github.io/hourofcode/ |   |   |   |   |
-| https://18f.github.io/microsite-template-18f/ |   |   |   |   |
-| https://18f.github.io/myra |  x |   |   |   |
-| https://18f.github.io/open-source-program |  x |   |   |   |
-| https://18f.github.io/us-gov-digital-service-design-manual/ |   |   |   |   |
+|  https://api.data.gov | x  |   | x  |  x |
+| https://18f.gsa.gov  |  x |   | x  |   |
+| https://mirage.gsa.gov  | x  |   |  No |   |
+| https://myra.treasury.gov/  | x  |   |  No |   |
+| https://notalone.gov |  x |   | x  |   |
+| https://pif.gsa.gov |  x |   |  No |   |
+| https://useiti.doi.gov/  | x  |   | x  |   |
+| https://foia.18f.us  |  x |   | No  |   |
+| https://midas.18f.us  |  x |   |  No |   |
+| https://18f.github.io |   |   | No  |   |
+| https://18f.github.io/aaa |   |   | No  |   |
+| https://18f.github.io/API-All-the-X | x  |   | No  | x  |
+| https://18f.github.io/API-Usability-Testing | x  |   |  No | x  |
+| https://18f.github.io/C2 |   |   | No  |   |
+| https://18f.github.io/consulting |   |   | No  |   |
+| https://18f.github.io/dashboard |   |   |  No |   |
+| https://18f.github.io/doi-extractives-data | x  |   | x  |   |
+| https://18f.github.io/ifgovthenthat |  x |   |  No |   |
+| https://18f.github.io/fbopen |   |   | No  |   |
+| https://18f.github.io/fbopen-docs |   |   | No  |   |
+| https://18f.github.io/fbopen-widget |   |   | No  |   |
+| https://18f.github.io/hackathontrainingday/hacks |   |   | No  |   |
+| https://18f.github.io/hourofcode/ |   |   | No  |   |
+| https://18f.github.io/microsite-template-18f/ |   |   | No  |   |
+| https://18f.github.io/myra |  x |   | No  |   |
+| https://18f.github.io/open-source-program |  x |   |  No |  x |
+| https://18f.github.io/us-gov-digital-service-design-manual/ |   |   | No  |   |
 
 Inactive
 
 
 | domain  | GA  | Tracking Code  | DAP  | GWT  |
 |---|---|---|---|---|
-| https://18fblog.tumblr.com  |   |   |   |   |
-| http://sbhub.wbi-icc.com/  |   |   |   |   |
+| https://18fblog.tumblr.com  |  x |   | No  |   |
+| http://sbhub.wbi-icc.com/  | x  |   | No  |  x |
 
