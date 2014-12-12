@@ -8,7 +8,7 @@ Active
 | https://mirage.gsa.gov  | x  |   |   |   |
 | https://myra.treasury.gov/  | x  |   |   |   |
 | https://notalone.gov |  x |   |   |   |
-| pif.gsa.gov |  x |   |   |   |
+| https://pif.gsa.gov |  x |   |   |   |
 | https://useiti.doi.gov/  | x  |   |   |   |
 | https://foia.18f.us  |  x |   |   |   |
 | https://midas.18f.us  |  x |   |   |   |
