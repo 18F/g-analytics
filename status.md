@@ -40,3 +40,8 @@
 | https://18fblog.tumblr.com  |  x |   | No  |   |
 | http://sbhub.wbi-icc.com/  | x  |   | No  |  x |
 
+## Other metrics
+
+* DAP-GSA filter 
+* DAP vs. 18F GA agreement
+
