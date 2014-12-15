@@ -3,20 +3,20 @@
 
 | Public Domains  | GA  | Tracking Code  | DAP  | GWT  |
 |---|---|---|---|---|
-|  https://api.data.gov | x  |   | x  |  x |
-| https://18f.gsa.gov  |  x |   | x  |   |
-| https://fbopen.gsa.gov  |   |   |   |   |
-| https://mirage.gsa.gov  | x  |   |  No |   |
-| https://myra.treasury.gov/  | x  |   |  No |   |
-| https://notalone.gov |  x |   | x  |   |
-| https://pif.gsa.gov |  x |   |  No |   |
-| https://useiti.doi.gov/  | x  |   | x  |   |
-| https://foia.18f.us  |  x |   | No  |   |
-| https://midas.18f.us  |  x |   |  No |   |
+|  https://api.data.gov | x  | 48605964-13  | x  |  x |
+| https://18f.gsa.gov  |  x | 48605964-1  | x  |   |
+| https://fbopen.gsa.gov  | x?  | 48605964-12  |   |   |
+| https://mirage.gsa.gov  | x  | 48605964-16  |  No |   |
+| https://myra.treasury.gov/  | x  |  48605964-14 |  No |   |
+| https://notalone.gov |  x | 48605964-4  | x  |   |
+| https://pif.gsa.gov |  x |  48605964-3 |  No |   |
+| https://useiti.doi.gov/  | x  | 48605964-1  | x  |   |
+| https://foia.18f.us  |  x | 48605964-15  | No  |   |
+| https://midas.18f.us  |  x | 48605964-17  |  No |   |
 | https://18f.github.io |   |   | No  |   |
 | https://18f.github.io/aaa |   |   | No  |   |
-| https://18f.github.io/API-All-the-X | x  |   | No  | x  |
-| https://18f.github.io/API-Usability-Testing | x  |   |  No | x  |
+| https://18f.github.io/API-All-the-X | x  |  48605964-6 | No  | x  |
+| https://18f.github.io/API-Usability-Testing | x  | 48605964-6  |  No | x  |
 | https://18f.github.io/C2 |   |   | No  |   |
 | https://18f.github.io/consulting |   |   | No  |   |
 | https://18f.github.io/dashboard |   |   |  No |   |
@@ -29,7 +29,7 @@
 | https://18f.github.io/hourofcode/ |   |   | No  |   |
 | https://18f.github.io/microsite-template-18f/ |   |   | No  |   |
 | https://18f.github.io/myra |  x |   | No  |   |
-| https://18f.github.io/open-source-program |  x |   |  No |  x |
+| https://18f.github.io/open-source-program |  x | 48605964-11  |  No |  x |
 | https://18f.github.io/us-gov-digital-service-design-manual/ |   |   | No  |   |
 
 ## Inactive
@@ -38,7 +38,7 @@
 | Public Domains  | GA  | Tracking Code  | DAP  | GWT  |
 |---|---|---|---|---|
 | https://18fblog.tumblr.com  |  x |   | No  |   |
-| http://sbhub.wbi-icc.com/  | x  |   | No  |  x |
+| http://sbhub.wbi-icc.com/  | x  |  48605964-5 | No  |  x |
 
 ## Other metrics
 
