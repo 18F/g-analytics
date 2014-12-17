@@ -26,4 +26,5 @@ Three main areas need further fleshing out: tracking the implementation of the D
 * 
 
 ## Other To Do 
-* Enable GSA users to access the Google Developer Console so as to be able to hit the api.  
+* Enable GSA users to access the Google Developer Console so as to be able to hit the api. 
+* Integrate collaborators: charles w., eric m., leah b., gabriel r.
