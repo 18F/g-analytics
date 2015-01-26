@@ -30,6 +30,7 @@
 | https://18f.github.io/hourofcode/ |   |   | No  |   |
 | https://18f.github.io/microsite-template-18f/ |   |   | No  |   |
 | https://18f.github.io/myra |  x |   | No  |   |
+| http://18f.github.io/navy-reserve/ |   |   | No  |   |
 | https://18f.github.io/open-source-program |  x | 48605964-11  |  No |  x |
 | https://18f.github.io/us-gov-digital-service-design-manual/ |   |   | No  |   |
 
