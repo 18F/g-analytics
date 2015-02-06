@@ -23,6 +23,7 @@
 | https://18f.github.io/consulting |   |   | No  |   |
 | https://18f.github.io/dashboard |   |   |  No |   |
 | https://18f.github.io/doi-extractives-data | x  |   | x  |   |
+| https://18f.github.io/guides/ |   |   |   |   |
 | https://18f.github.io/ifgovthenthat |  x |   |  No |   |
 | https://18f.github.io/fbopen |   |   | No  |   |
 | https://18f.github.io/fbopen-docs |   |   | No  |   |
