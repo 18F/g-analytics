@@ -33,6 +33,7 @@
 | https://18f.github.io/hackathontrainingday/hacks |   |   | No  |   |
 | https://18f.github.io/hourofcode/ |   |   | No  |   |
 | https://18f.github.io/microsite-template-18f/ |   |   | No  |   |
+| https://18f.github.io/midas |   |   | No  |   |
 | https://18f.github.io/myra |  x |   | No  |   |
 | http://18f.github.io/navy-reserve/ |   |   | No  |   |
 | http://18f.github.io/slides/ |   |   | No  |   |
