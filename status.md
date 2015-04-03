@@ -17,6 +17,7 @@
 | https://18f.github.io |   |   | No  |   |
 | https://18f.github.io/aaa |   |   | No  |   |
 | https://18f.github.io/accessiblity |   |   | No  |   |
+| http://18f.github.io/agile/ |   |   | No  |   |
 | https://18f.github.io/agile-labor-categories |   |   | No  |   |
 | https://18f.github.io/API-All-the-X | x  |  48605964-6 | No  | x  |
 | https://18f.github.io/API-Usability-Testing | x  | 48605964-6  |  No | x  |
