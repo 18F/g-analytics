@@ -8,6 +8,9 @@
 | https://18f.gsa.gov  |  x | 48605964-1  | x  |   |
 | https://fbopen.gsa.gov  | x?  | 48605964-12  |   |   |
 | https://mirage.gsa.gov  | x  | 48605964-16  |  No |   |
+| https://letgirlslearn.peacecorps.gov/  |   |   |   |   |
+| https://analytics.usa.gov  |   |   |   |   |
+| https://https.cio.gov  |   |   |   |   |
 | https://myra.treasury.gov/  | x  |  48605964-14 |  No |   |
 | https://notalone.gov |  x | 48605964-4  | x  |   |
 | https://pif.gsa.gov |  x |  48605964-3 |  No |   |
@@ -37,6 +40,7 @@
 | https://18f.github.io/hourofcode/ |   |   | No  |   |
 | https://18f.github.io/microsite-template-18f/ |   |   | No  |   |
 | https://18f.github.io/midas |   |   | No  |   |
+| http://18f.github.io/military-onesource-federalist/ |   |   | No  |   |
 | https://18f.github.io/myra |  x |   | No  |   |
 | http://18f.github.io/navy-reserve/ |   |   | No  |   |
 | http://18f.github.io/slides/ |   |   | No  |   |
