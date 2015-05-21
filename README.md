@@ -1,7 +1,5 @@
-
-## Overview
-
-
+## Guild Work 
+* [YML file of guild details](https://github.com/18F/data-private/tree/master/working_groups)
 
 
 ## Side Projects
