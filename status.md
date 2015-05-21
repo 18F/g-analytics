@@ -1,3 +1,9 @@
+Things we should audit for our projects: 
+* Do they have 18F Analytics implemented? 
+* What is the tracking code used?  
+* Do they have DAP Analytics implemented?  
+* Are both snippets customized to the 18F standards?  
+* Anything else? 
 
 ## Active 
 
