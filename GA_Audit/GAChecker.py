@@ -2,6 +2,17 @@ import time
 from selenium import webdriver
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 
+"""
+A script for checking GA version/ua-codes/settings
+#Usage
+### Init object
+checker = GAChecker()
+### Check URLS
+print(checker.check_for_ga('http://iipdigital.usembassy.gov/'))
+# Close browser
+checker.quit_browser()
+"""
+
 
 class GAChecker:
 
@@ -67,10 +78,3 @@ else {
     def quit_browser(self):
         """ stops browser """
         self.browser.quit()
-
-if __name__ == "__main__":
-    checker = GAChecker()
-    print(checker.check_for_ga('https://open.foia.gov'))
-    print(checker.check_for_ga('http://iipdigital.usembassy.gov/'))
-    print(checker.check_for_ga('http://quotas-db.cf.18f.us'))
-    checker.quit_browser()
