@@ -1,21 +1,17 @@
-## Guild Work 
+## Guild Notes 
 * [YML file of guild details](https://github.com/18F/data-private/tree/master/working_groups)
 
-
-## Side Projects
-* What should the team publish on 18f.gsa.gov/analytics?
-* What can we build (widgets, embeds, etc) that other agencies can easily reuse?
+## Guild Projects
+* Draft an 18F Analytics Standards 
+* Drive consensus and adoption for Standards 
+* Track 18F domains and implementation of standards 
+* Add new 18F team members to 18F analytics 
+* Invite new 18F team members to DAP 
+* Service team requests for analytics help
 
 ## 18F Properties
 
-Now located [here](https://github.com/18F/analytics/blob/master/status.md).  
-
-
-## Deliverables
-* 18f.gsa.gov/analytics
-* standards, procedures for all 18F projects - internal
-* standards, procedures for all Web Maker projects - external
-* Dashboard to track DAP Application
+Now located [here](https://github.com/18F/analytics/blob/master/status-tracking.md).  
 
 ## Sources of Analytics
 * GA - 18F
