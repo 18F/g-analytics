@@ -24,7 +24,7 @@ You should already have access to 18F's Google Analytics account, but there's an
 
 The [Digital Analytics Program](http://www.digitalgov.gov/services/dap/) (DAP) is a government-wide shared service that is being systematically integrated into all .gov websites.  A high-level view of this data can be seen at [analytics.usa.gov](https://analytics.usa.gov).  But as a federal employee, you are able to gain access to the *entire* underlying data - a tremendous view into how the public uses government websites.  
 
-We encourage every 18F-er to [register for your DAP access](https://github.com/18F/analytics-standards/blob/master/faq.md#how-do-i-get-access-to-the-government-wide-dap-data).  It only takes a few minutes and you may find it very useful.  
+We encourage every 18F-er to [register for your DAP access](https://github.com/18F/analytics-standards/blob/master/faq.md#how-do-i-get-access-to-the-government-wide-dap-data).  It only takes a few minutes and you may find it very useful.  One important note is that you cannot share DAP data outside of government beyond what is visible on analytics.usa.gov.  
 
 If you have any questions or need any help, please reach out in the #g-analytics channel in slack.  
 
