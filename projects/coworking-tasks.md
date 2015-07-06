@@ -15,6 +15,9 @@
 
 ### Template to email new hires, re: DAP
 
+
+Subject: Expanded Analytics Access
+
 Hi!  
 
 You should already have access to 18F's Google Analytics account, but there's another powerful source of web analytics that you can request access to.  We wanted to reach out and encourage you to do so.  
