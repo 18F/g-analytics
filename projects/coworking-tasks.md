@@ -27,4 +27,4 @@ If you have any questions or need any help, please reach out in the #g-analytics
 
 Thanks!  
 
-Gray, Jackie, and Gab from the Analytics Guild 
+Gray, Jackie, and Gabriel from the Analytics Guild 
