@@ -9,7 +9,7 @@ Welcome to the home of the Analytics Guild at 18F. Our mission is to integrate w
 * Drive consensus and adoption for Standards
 * Track 18F domains and implementation of standards
 * Add new 18F team members to 18F analytics
-* Invite new 18F team members to DAP
+* Invite new 18F team members to the Digital Analytics Program (DAP)
 * Service team requests for analytics help
 
 ## 18F Properties
