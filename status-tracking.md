@@ -23,7 +23,7 @@ Things we should audit for our projects:
 | https://analytics.usa.gov  |   |   |   |   |
 | https://https.cio.gov  |   |   |   |   |
 | https://myra.treasury.gov/  | x  |  48605964-14 |  No |   |
-| https://openopps.digitalgov.gov/  | x  |  48605964-14 |  No |   |
+| https://openopps.digitalgov.gov/  |   |  |   |   |
 | https://notalone.gov |  x | 48605964-4  | x  |   |
 | https://pif.gsa.gov |  x |  48605964-3 |  No |   |
 | https://useiti.doi.gov/  | x  | 48605964-1  | x  |   |
