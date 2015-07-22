@@ -15,7 +15,7 @@ Things we should audit for our projects:
 | http://calc.gsa.gov/  |   |   |   |   |
 | https://18f.gsa.gov  |  x | 48605964-1  | x  |   |
 | https://pages.18f.gov/ads-bpa/  |  |   |   |   |
-| https://pages.18f.gov/govt-wide-patternlibrary/  |  |   |   |   |
+| https://pages.18f.gov/govt-wide-patternlibrary/  | x | 48605964-19  | X  |   |
 | https://fbopen.gsa.gov  | x?  | 48605964-12  |   |   |
 | https://federalist.18f.gov/  | x?  | 48605964-12  |   |   |
 | https://mirage.gsa.gov  | x  | 48605964-16  |  No |   |
