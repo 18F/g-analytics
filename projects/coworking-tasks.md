@@ -6,7 +6,8 @@
 4. Remove alumni access to the 18F GA account.  
 5. Email dap@gsa.gov with news if someone has departed government or left GSA, suggesting they remove their DAP access.  If they are still employed at GSA, don't notify the DAP team.  
 6. Email new hires with directions on how to apply for DAP access and encourage them to request it.  
-7. Review 18F projects to ensure that new sites have correctly implemented the 18F GA snippet.  
+7. Service any outstanding 18F requests for help.  
+8. Review 18F projects to ensure that new sites have correctly implemented the 18F GA snippet.  
 8. Review 18F projects to ensure that new sites have correctly implemented the DAP GA snippet.  
 
 ## Irregular Tasks
