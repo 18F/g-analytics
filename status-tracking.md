@@ -48,6 +48,7 @@ Things we should audit for our projects:
 | https://18f.github.io/fbopen |   |   | No  |   |
 | https://18f.github.io/fbopen-docs |   |   | No  |   |
 | https://18f.github.io/fbopen-widget |   |   | No  |   |
+| https://pages.18f.gov/govconnect |   |   |  |   |
 | https://18f.github.io/hackathontrainingday/hacks |   |   | No  |   |
 | https://18f.github.io/hourofcode/ |   |   | No  |   |
 | https://18f.github.io/microsite-template-18f/ |   |   | No  |   |
