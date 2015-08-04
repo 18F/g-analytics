@@ -14,6 +14,7 @@
 1. Write or Update [Guild OKRs](https://docs.google.com/document/d/1ntHEPBUDBR4_S3z0wHiMeplwT_q3RMLqI-hsJN_u2SE/edit)
 2. Engage with 18F about interest in publishing analytics 
 3. Consolidate or tidy up GA properties.  
+4. Work on managing non-18F access.
 
 
 ### Template to email new hires, re: DAP
