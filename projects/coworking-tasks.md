@@ -15,6 +15,7 @@
 2. Engage with 18F about interest in publishing analytics 
 3. Consolidate or tidy up GA properties.  
 4. Work on managing non-18F access.
+5. Promote GA access to our clients much more.  
 
 
 ### Template to email new hires, re: DAP
