@@ -17,6 +17,7 @@ Things we should audit for our projects:
 | https://pages.18f.gov/ads-bpa/  |  |   |   |   |
 | https://pages.18f.gov/govt-wide-patternlibrary/  | x | 48605964-19  | X  |   |
 | https://fbopen.gsa.gov  | x?  | 48605964-12  |   |   |
+| https://kids.18f.gov  |   |   |   |   |
 | https://federalist.18f.gov/  | x?  | 48605964-12  |   |   |
 | https://mirage.gsa.gov  | x  | 48605964-16  |  No |   |
 | https://letgirlslearn.peacecorps.gov/  |   |   |   |   |
