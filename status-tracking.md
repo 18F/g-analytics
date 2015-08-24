@@ -12,6 +12,7 @@ Things we should audit for our projects:
 |  https://api.data.gov | x  | 48605964-13  | x  |  x |
 |  https://cap.18f.gov/ |   |   |   |   |
 |  https://docs.18f.gov/ |   |   |   |   |
+|  https://cloud.18f.gov/ |   |   |   |   |
 | http://calc.gsa.gov/  |   |   |   |   |
 | https://18f.gsa.gov  |  x | 48605964-1  | x  |   |
 | https://pages.18f.gov/ads-bpa/  |  |   |   |   |
@@ -47,6 +48,8 @@ Things we should audit for our projects:
 | https://18f.github.io/consulting |   |   | No  |   |
 | https://18f.github.io/dashboard |   |   |  No |   |
 | https://pages.18f.gov/dev-environment/ |   |   |  No |   |
+| https://pages.18f.gov/devops-assessment/ |   |   |   |   |
+
 | https://18f.github.io/doi-extractives-data | x  |   | x  |   |
 | https://18f.github.io/guides/ |   |   |   |   |
 | https://18f.github.io/ifgovthenthat |  x |   |  No |   |
