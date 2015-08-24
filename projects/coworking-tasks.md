@@ -8,7 +8,8 @@
 6. Email new hires with directions on how to apply for DAP access and encourage them to request it.  
 7. Service any outstanding 18F requests for help.  
 8. Review 18F projects to ensure that new sites have correctly implemented the 18F GA snippet.  
-8. Review 18F projects to ensure that new sites have correctly implemented the DAP GA snippet.  
+9. Review 18F projects to ensure that new sites have correctly implemented the DAP GA snippet.  
+10. Review 18F projects to ensure that they have updated the DAP GA snippet  new sites have correctly implemented the DAP GA snippet.  
 
 ## Irregular Tasks
 1. Write or Update [Guild OKRs](https://docs.google.com/document/d/1ntHEPBUDBR4_S3z0wHiMeplwT_q3RMLqI-hsJN_u2SE/edit)
