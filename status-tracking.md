@@ -29,9 +29,11 @@ Things we should audit for our projects:
 | https://notalone.gov |  x | 48605964-4  | x  |   |
 | https://apply.pif.gov |   |   |   |   |
 | https://www.pif.gov |   |   |   |   |
+| https://discuss.pif.gov/ |   |   |   |   |
 | https://presidentialinnovationfellows.gov |   |   |  |   |
 | https://pif.gsa.gov |  x |  48605964-3 |  No |   |
 | https://useiti.doi.gov/  | x  | 48605964-1  | x  |   |
+| https://discourse.18f.us/  |   |   |   |   |
 | https://foia.18f.us  |  x | 48605964-15  | No  |   |
 | https://midas.18f.us  |  x | 48605964-17  |  No |   |
 | https://my.uscis.gov or https://myaccount.uscis.dhs.gov/  |   |   |  |   |
