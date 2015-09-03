@@ -11,3 +11,9 @@
 ### Adding Full URLs Desciption 
 
 ...
+
+
+### Request access to GSA's GA account
+
+1. Email EWM@gsa.gov and request access to GSA's google analytics account.
+
