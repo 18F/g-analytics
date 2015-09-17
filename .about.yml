@@ -1,0 +1,19 @@
+---
+name: Analytics
+full_name: Analytics Guild
+mission: 'To integrate website analytics into all 18F projects.'
+private:
+  okrs: https://docs.google.com/document/d/1ntHEPBUDBR4_S3z0wHiMeplwT_q3RMLqI-hsJN_u2SE/edit
+  slack: g-analytics
+  drive: https://drive.google.com/drive/u/0/#folders/0B84F26FpUP0lR1B2VVNGSi1MMVk/0B0C6PKlzps2JV3pqX3NJdm5WejA/0B38LQ8842Nn6fm0yYTg3MzhueFNRVjlxZjI3RzhfLXBZZ1ZFZWw3SFFOOGZoRWNOTlRjTjg
+github_repos:
+- 18F/analytics
+- 18F/analytics-standards
+leads:
+- gray
+- jackie
+members:
+- gray
+- jacob
+- jackie
+- gramirez
