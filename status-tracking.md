@@ -20,6 +20,8 @@ Things we should audit for our projects:
 | https://discourse.18f.us/  |   |   |   |   |
 | https://foia.18f.us  |  x | 48605964-15  | No  |   |
 | https://midas.18f.us  |  x | 48605964-17  |  No |   |
+| https://project-dashboard.18f.gov/ |   |   |   |   |
+| https://tmate.18f.gov |   |   |   |   |
 | https://apply.pif.gov |   |   |   |   |
 | https://www.pif.gov |   |   |   |   |
 | https://discuss.pif.gov/ |   |   |   |   |
