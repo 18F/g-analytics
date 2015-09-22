@@ -16,10 +16,12 @@ Things we should audit for our projects:
 | https://cloud.18f.gov/ |   |   |   |   |
 | https://console.18f.gov/ |   |   |   |   |
 | https://federalist.18f.gov/  | x?  | 48605964-12  |   |   |
+| https://fugacious.18f.gov  |   |   |   |   |
 | https://kids.18f.gov  |   |   |   |   |
 | https://discourse.18f.us/  |   |   |   |   |
 | https://foia.18f.us  |  x | 48605964-15  | No  |   |
 | https://midas.18f.us  |  x | 48605964-17  |  No |   |
+| https://voyage.18f.gov  |   |   |   |   |
 | https://project-dashboard.18f.gov/ |   |   |   |   |
 | https://tmate.18f.gov |   |   |   |   |
 | https://apply.pif.gov |   |   |   |   |
