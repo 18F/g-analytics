@@ -10,6 +10,8 @@
 8. Review 18F projects to ensure that new sites have correctly implemented the 18F GA snippet.  
 9. Review 18F projects to ensure that new sites have correctly implemented the DAP GA snippet.  
 10. Review 18F projects to ensure that they have updated the DAP GA snippet  new sites have correctly implemented the DAP GA snippet.  
+11. Ensure Full URL filters for each profile 
+
 
 ## Irregular Tasks
 1. Write or Update [Guild OKRs](https://docs.google.com/document/d/1ntHEPBUDBR4_S3z0wHiMeplwT_q3RMLqI-hsJN_u2SE/edit)
