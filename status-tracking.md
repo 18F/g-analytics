@@ -103,3 +103,4 @@ Things we should audit for our projects:
 
 https://pages.18f.gov/2015-offsite/
 
+https://pages.18f.gov/joining-18f/how-to-apply/
