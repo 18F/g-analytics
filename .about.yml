@@ -13,9 +13,13 @@ links:
   text: 18F Analytics Guild project site
 - url: https://github.com/18F/analytics-standards
   text: 18F Analytics Standards
+- url: https://docs.google.com/document/u/1/d/1ntHEPBUDBR4_S3z0wHiMeplwT_q3RMLqI-hsJN_u2SE/edit?usp=drive_web
+  text: 18F Analytics Guild OKRs 
 team:
 - github: gbinal
   role: lead
 - github: jackiekazil
   role: lead
 - github: ramirezg
+- github: juliawinn
+- github: catherinedevlin
