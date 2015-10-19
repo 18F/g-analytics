@@ -2,7 +2,7 @@
 
 Welcome to the home of the Analytics Guild at 18F. Our mission is to integrate website analytics into all 18F projects. Here you will find artifacts of our effort. If you're looking for the 18F analytics standards, they are located [here](https://github.com/18F/analytics-standards). 
 
-* Here is a [YML file of our guild details](https://github.com/18F/data-private/blob/master/working_groups/analytics.yml)
+* Here is a [YML file of our guild details](https://github.com/18F/analytics/blob/18f-pages/.about.yml)
 
 ## Guild Projects
 * Draft an 18F [Analytics Standards](https://github.com/18F/analytics-standards)
