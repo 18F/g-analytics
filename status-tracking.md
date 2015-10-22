@@ -108,4 +108,8 @@ https://pages.18f.gov/joining-18f/how-to-apply/
 https://project-dashboard.18f.gov/default
 https://masonry-gitbook.cloud.gov/
 https://masonry.cloud.gov/
-
+https://pages.18f.gov/core-values
+https://iaa-mvp.18f.gov/
+https://api.cloud.gov/
+https://control-masonry.18f.gov/
+https://beta.fec.gov/data/
