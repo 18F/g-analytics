@@ -102,20 +102,20 @@ Things we should audit for our projects:
   * 
 * DAP vs. 18F GA agreement
 
-https://pages.18f.gov/2015-offsite/
-https://blogalytics.18f.gov/
-https://pages.18f.gov/joining-18f/how-to-apply/
-https://project-dashboard.18f.gov/default
-https://masonry-gitbook.cloud.gov/
-https://masonry.cloud.gov/
-https://pages.18f.gov/core-values
-https://iaa-mvp.18f.gov/
-https://api.cloud.gov/
-https://control-masonry.18f.gov/
-https://beta.fec.gov/data/
-https://team-api.18f.gov/
-micropurchase.18f.gov
-handbook.18f.gov
+https://pages.18f.gov/2015-offsite/  
+https://blogalytics.18f.gov/  
+https://pages.18f.gov/joining-18f/how-to-apply/  
+https://project-dashboard.18f.gov/default  
+https://masonry-gitbook.cloud.gov/  
+https://masonry.cloud.gov/  
+https://pages.18f.gov/core-values  
+https://iaa-mvp.18f.gov/  
+https://api.cloud.gov/  
+https://control-masonry.18f.gov/  
+https://beta.fec.gov/data/  
+https://team-api.18f.gov/  
+https://micropurchase.18f.gov  
+https://handbook.18f.gov  
 
 
 
