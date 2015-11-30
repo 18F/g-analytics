@@ -8,9 +8,9 @@
 5. Email dap@gsa.gov with news if someone has departed government or left GSA, suggesting they remove their DAP access.  If they are still employed at GSA, don't notify the DAP team.  
 6. Email new hires with directions on how to apply for DAP access and encourage them to request it.  
 7. Service any outstanding 18F requests for help.  
-8. Review 18F projects to ensure that new sites have correctly implemented the 18F GA snippet.  
-9. Review 18F projects to ensure that new sites have correctly implemented the DAP GA snippet.  
-10. Review 18F projects to ensure that they have updated the DAP GA snippet  new sites have correctly implemented the DAP GA snippet.  
+8. Review 18F projects to ensure that new sites have correctly implemented the 18F GA snippet.  ([tracking here](https://docs.google.com/spreadsheets/d/10ElTglNhDyqtIRGTTve4WrxVDQYsJvneKUT6tH3KHAE/edit#gid=0))
+9. Review 18F projects to ensure that new sites have correctly implemented the DAP GA snippet.  ([tracking here](https://docs.google.com/spreadsheets/d/10ElTglNhDyqtIRGTTve4WrxVDQYsJvneKUT6tH3KHAE/edit#gid=0))  
+10. Review 18F projects to ensure that they have updated the DAP GA snippet  new sites have correctly implemented the DAP GA snippet.    ([tracking here](https://docs.google.com/spreadsheets/d/10ElTglNhDyqtIRGTTve4WrxVDQYsJvneKUT6tH3KHAE/edit#gid=0))
 11. Ensure Full URL filters for each profile 
 
 
