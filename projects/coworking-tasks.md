@@ -8,7 +8,7 @@
 5. Email dap@gsa.gov with news if someone has departed government or left GSA, suggesting they remove their DAP access.  If they are still employed at GSA, don't notify the DAP team.  
 6. ~~Email new hires with directions on how to apply for DAP access and encourage them to request it.~~ _Now handled by Mrs. Landingham._~~  
 7. Service any outstanding 18F requests for help.  
-8. Review 18F projects to ensure that new sites have correctly implemented the 18F GA snippet.  ([tracking here](https://docs.google.com/spreadsheets/d/10ElTglNhDyqtIRGTTve4WrxVDQYsJvneKUT6tH3KHAE/edit#gid=0)) - [audit code](https://gist.github.com/geramirez/88eb828c5cf7376436f8) -  [weigh against intake's list of projects](https://trello.com/b/kZ7PUggv/delivery-engagement-tracker) - *[new audit tool](https://auditor.apps.cloud.gov/)*
+8. Review 18F projects to ensure that new sites have correctly implemented the 18F GA snippet.  ([tracking here](https://docs.google.com/spreadsheets/d/10ElTglNhDyqtIRGTTve4WrxVDQYsJvneKUT6tH3KHAE/edit#gid=0)) - [audit code](https://gist.github.com/geramirez/88eb828c5cf7376436f8) -  [weigh against intake's list of projects](https://trello.com/b/kZ7PUggv/delivery-engagement-tracker) - **[new audit tool](https://auditor.apps.cloud.gov/)**
 9. Review 18F projects to ensure that new sites have correctly implemented the DAP GA snippet.  ([tracking here](https://docs.google.com/spreadsheets/d/10ElTglNhDyqtIRGTTve4WrxVDQYsJvneKUT6tH3KHAE/edit#gid=0))  
 10. Review 18F projects to ensure that they have updated the DAP GA snippet per instructions from the DAP team (?)   ([tracking here](https://docs.google.com/spreadsheets/d/10ElTglNhDyqtIRGTTve4WrxVDQYsJvneKUT6tH3KHAE/edit#gid=0))
 11. Ensure Full URL filters for each profile.
