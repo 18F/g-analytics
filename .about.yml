@@ -9,7 +9,7 @@ description: >
   We intend to integrate website analytics into all 18F projects.
 stage: live
 links:
-- url: https://github.com/18F/analytics
+- url: https://github.com/18F/g-analytics
   text: 18F Analytics Guild project site
 - url: https://github.com/18F/analytics-standards
   text: 18F Analytics Standards
@@ -17,8 +17,6 @@ links:
   text: 18F Analytics Guild OKRs 
 team:
 - github: gbinal
-  role: lead
-- github: jackiekazil
   role: lead
 - github: ramirezg
 - github: juliawinn
