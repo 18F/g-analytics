@@ -1,6 +1,6 @@
 ## Regular Tasks for Projects
 
-1. Add new hires to the [analytics onboarding tracking sheet](https://docs.google.com/spreadsheets/d/1U2rXdJXbX-wZoh8ZuEXl8VxuN-25CkIcNET2Gu880QY/edit#gid=0).  It may help to contrast that list with the [18F Team Contact Info](https://docs.google.com/spreadsheets/d/1QqqS_-V44MHyVqRIyHj6Eojg1Oz5EC3fS3j1e3mDrkg/edit#gid=3).  
+1. Add new hires to the [analytics onboarding tracking sheet](https://docs.google.com/spreadsheets/d/1U2rXdJXbX-wZoh8ZuEXl8VxuN-25CkIcNET2Gu880QY/edit#gid=0).  It may help to contrast that list with the [onboarding pipeline](https://docs.google.com/spreadsheets/d/198mdRG-j2FTbWRvSRGgRIKtFwIUfpn1MrIVXOFGWALQ/edit#gid=1546667454) and the [18F Team Contact Info](https://docs.google.com/spreadsheets/d/1QqqS_-V44MHyVqRIyHj6Eojg1Oz5EC3fS3j1e3mDrkg/edit#gid=3).  
 2. Ensure all 18F-ers have been given access [collaborate, read & access] to the 18F GA account.  
 3. Post an interesting analytics observation in #general-talk.  If something that can be public, also post in #tweet-this and ask for it to be published.  
 3. Move people who've left to the Alumni sheet.  
