@@ -4,8 +4,8 @@
 2. Ensure all 18F-ers have been given access [collaborate, read & access] to the 18F GA account.  
 3. Post an interesting analytics observation in #general-talk.  If something that can be public, also post in #tweet-this and ask for it to be published.  
 3. Move people who've left to the Alumni sheet.  
-4. Remove alumni access to the 18F GA account.  
-5. Email dap@gsa.gov with news if someone has departed government or left GSA, suggesting they remove their DAP access.  If they are still employed at GSA, don't notify the DAP team.  
+4. Remove alumni access to the 18F GA account and indicate the task is done by using ~strikethroughs~ for that.  
+5. Email dap@support.digitalgov.gov with news if someone has departed government or left GSA, suggesting they remove their DAP access.  If they are still employed at GSA, don't notify the DAP team. Indicate the task is done by using ~strikethroughs~ for that
 6. ~~Email new hires with directions on how to apply for DAP access and encourage them to request it.~~ _Now handled by Mrs. Landingham._~~  
 7. Service any outstanding 18F requests for help.  
 8. Review 18F projects to ensure that new sites have correctly implemented the 18F GA snippet.  ([tracking here](https://docs.google.com/spreadsheets/d/10ElTglNhDyqtIRGTTve4WrxVDQYsJvneKUT6tH3KHAE/edit#gid=0)) - [audit code](https://gist.github.com/geramirez/88eb828c5cf7376436f8) -  [weigh against intake's list of projects](https://trello.com/b/kZ7PUggv/delivery-engagement-tracker) - **[new audit tool](https://auditor.apps.cloud.gov/)**
