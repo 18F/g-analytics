@@ -29,4 +29,6 @@ _Caveats:  For practical purposes, the subdomain list is a snapshot from 12-31-1
 * [List of Active, Non-Redirecting Subdomains for the Federal Government](https://github.com/18F/g-analytics/blob/18f-pages/projects/dap-subdomain-report/5-subdomain-list-with-agencies-federal.csv)
 * [List of Active, Non-Redirecting Subdomains for the Executive Branch with their DAP implementation status](https://github.com/18F/g-analytics/blob/18f-pages/projects/dap-subdomain-report/7-subdomain-list-with-agencies-executive-DAP.csv)
 
+## Questions?  
 
+Feel free to [file an issue](https://github.com/18F/g-analytics/issues) with any thoughts or questions.  
