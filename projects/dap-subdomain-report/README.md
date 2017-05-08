@@ -18,7 +18,7 @@ Steps:
 * Remove the inactive domains.  _([39908 results](https://github.com/18F/g-analytics/blob/18f-pages/projects/dap-subdomain-report/2-combined-subdomain-list-minus-inactive-URLs.csv))_
 * Remove the redirecting domains.  _([34961 results](https://github.com/18F/g-analytics/blob/18f-pages/projects/dap-subdomain-report/3-combined-subdomain-list-minus-inactive-or-redirecting-URLs.csv))_
 * Dedup the list.  _([25377 results](https://github.com/18F/g-analytics/blob/18f-pages/projects/dap-subdomain-report/4-combined-subdomain-list-minus-inactive-or-redirecting-URLs-dedupped.csv))_
-* Add `Agency` and `Branch` columns.  _([25377 results](https://github.com/18F/g-analytics/blob/18f-pages/projects/dap-subdomain-report/5-subdomain-list-with-agencies-federal.csv))_
+* Add `Agency` and `Branch` columns.  _([25377 results](https://github.com/18F/g-analytics/blob/18f-pages/projects/dap-subdomain-report/5-subdomain-list-with-agencies-federal.csv))_ ([raw](https://github.com/18F/g-analytics/raw/18f-pages/projects/dap-subdomain-report/5-subdomain-list-with-agencies-federal.csv))
 * Remove other branches.  _([22053 results](https://github.com/18F/g-analytics/blob/18f-pages/projects/dap-subdomain-report/6-subdomain-list-with-agencies-executive.csv))_
 * Compare against the DAP participants list.  _([22053 results](https://github.com/18F/g-analytics/blob/18f-pages/projects/dap-subdomain-report/7-subdomain-list-with-agencies-executive-DAP.csv))_
 
