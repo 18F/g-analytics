@@ -13,7 +13,7 @@ At the moment, here are the terms we are using to filter out URLs that seemingly
 |  collaborate |   |
 |  collaboration |   |
 | connect-mail  |   |
-|  connect |   |
+|  connect |  Cisco login page |
 |  demo |   |
 | dev  |   |
 |  dialin |   |
@@ -35,7 +35,6 @@ At the moment, here are the terms we are using to filter out URLs that seemingly
 | preview  |   |
 |  prod |   |
 |  qa |   |
-| qat  |   |
 |  remote |   |
 |  secure |   |
 |  sharepoint |   |
@@ -48,7 +47,7 @@ At the moment, here are the terms we are using to filter out URLs that seemingly
 | staging  |   |
 |  static |   |
 |  sts |   |
-|  stg? |   |
+|  stg |   |
 |  svn |   |
 |  tdl |   |
 | telework  |   |
@@ -61,7 +60,7 @@ At the moment, here are the terms we are using to filter out URLs that seemingly
 |  webadmin |   |
 |  webapp |   |
 |  webmail |   |
-| www2  |   |
+| www0, www2, www8  |   |
 
   
 
@@ -73,6 +72,9 @@ Other candidates for this list that we have left off include:
 |  community |   |
 |  ftp |   |
 |  listserv |   |
+|  qat |   |
+|  sts |   |
+
 
 
 
