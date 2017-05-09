@@ -11,6 +11,7 @@ Welcome to the home of the Analytics Guild at 18F. Our mission is to integrate w
 * Add new 18F team members to 18F analytics
 * Invite new 18F team members to the Digital Analytics Program (DAP)
 * Service team requests for analytics help
+* Create a [DAP subdomain report](https://github.com/18F/g-analytics/tree/18f-pages/projects/dap-subdomain-report)
 
 ## 18F Properties
 
