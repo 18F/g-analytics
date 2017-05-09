@@ -3,87 +3,74 @@ At the moment, here are the terms we are using to filter out URLs that seemingly
   
 | String  |  Reason |
 |---|---|
-| admin  |   |
-| adobeconnect  |   |
-| assets  |   |
-| autodiscover  |   |
-| cdn  |   |
-| citrix  |   |
-| cms  |   |
-|  collaborate |   |
-|  collaboration |   |
-| connect-mail  |   |
-|  connect |  Cisco login page |
-|  demo |   |
-| dev  |   |
-|  dialin |   |
-|  download |   |
-| e-login  |   |
-| edit  |   |
-|  email |   |
-|  extranet |   |
-| internal  |   |
-| intranet  |   |
-|  login |   |
-|  lyncdiscover |   |
-|  mail |   |
-|  mdm |   |
-| meet  |   |
-| origin  |   |
-|  owa |   |
-|  piv |   |
-| preview  |   |
-|  prod |   |
-|  qa |   |
-|  remote |   |
-|  secure |   |
-|  sharepoint |   |
-| smtp  |   |
-| ssl  |   |
-|  sslvpn |   |
-|  sso |   |
-|  staff |   |
-| stage  |   |
-| staging  |   |
-|  static |   |
-|  sts |   |
-|  stg |   |
-|  svn |   |
-|  tdl |   |
-| telework  |   |
-|  test |   |
-|  testing |   |
-|  uat |   |
-| vdi  |   |
-|  vpn |   |
-|  vtrcks |   |
-|  webadmin |   |
-|  webapp |   |
-|  webmail |   |
-| www0, www2, www8  |   |
+|  access |  internal collaboration tool |
+| admin  |  admin panel |
+| adobeconnect  |  internal collaboration tool |
+| assets  | website components  |
+| autodiscover  |  webmail |
+| cdn  | website components  |
+| citrix  | internal collaboration tool  |
+| cms  | admin panel   |
+|  collaborate | internal collaboration tool  |
+|  collaboration |  internal collaboration tool |
+| connect-mail  |  webmail |
+|  connect |  internal collaboration tool  |
+|  demo |  staging and development |
+| dev  | staging and development  |
+|  dialin | authentication  |
+|  download | website components  |
+| e-login  |  authentication |
+| edit  |  admin panel |
+|  email | webmail  |
+|  extranet |  internal collaboration tool |
+| internal  |  internal collaboration tool |
+| intranet  | internal collaboration tool  |
+|  login |  authentication |
+|  lyncdiscover |  internal collaboration tool |
+|  mail | webmail  |
+|  mdm | other  |
+| meet  | internal collaboration tool  |
+| origin  | staging and development  |
+|  owa |  webmail |
+|  piv | authentication  |
+| preview  | staging and development  |
+|  prod |  staging and development |
+|  qa | staging and development  |
+|  remote |  authentication |
+|  secure | authentication  |
+|  sharepoint | internal collaboration tool  |
+| smtp  | webmail  |
+| ssl  |  authentication |
+|  sslvpn | authentication  |
+|  sso | authentication  |
+|  staff | internal collaboration tool  |
+| stage  | staging and development  |
+| staging  |  staging and development |
+|  static | staging and development  |
+|  stg |  staging and development |
+|  sts |  other |
+|  svn |  staging and development |
+|  tdl | other  |
+| telework  | authentication  |
+|  test | staging and development  |
+|  testing |  staging and development |
+|  uat |  staging and development |
+| vdi  | internal collaboration tool  |
+|  vpn |  authentication |
+|  vtrcks | other  |
+|  webadmin | admin panel  |
+|  webapp | admin panel   |
+|  webmail |  webmail |
+| www0, www2, www8  | staging and development  |
 
   
 
-Other candidates for this list that we have left off include:  
+Other candidates for this list that we reviewed and are leaving off for now include:  
 
 | String  |  Reason |
 |---|---|
-|  access |   |
-|  community |   |
-|  ftp |   |
-|  listserv |   |
-|  qat |   |
-|  sts |   |
-
-
-
-
-
-
-
-
-
-
-
-
+|  community |  often public sites |
+|  ftp |  often have publicly browsable directories |
+|  listserv | often have publicly browsable directories |
+|  qat |   often public sites  |
 
