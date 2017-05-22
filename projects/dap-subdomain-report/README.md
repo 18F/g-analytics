@@ -26,6 +26,8 @@ Steps:
 8.1) With the [ignore list](https://github.com/18F/g-analytics/blob/18f-pages/projects/dap-subdomain-report/assets/ignore-list.md) removed.  _([20,520 results](https://github.com/18F/g-analytics/blob/18f-pages/projects/dap-subdomain-report/7.1-subdomain-list-with-agencies-executive-DAP-filtered.csv))_    _([raw](https://github.com/18F/g-analytics/raw/18f-pages/projects/dap-subdomain-report/7.1-subdomain-list-with-agencies-executive-DAP-filtered.csv))_  
   
 _Caveats:  For practical purposes, the subdomain list is a snapshot from 12-31-16 and their active/inactive and redirecting statuses are also from scans that took place at that time.  Since then, some on this list may have become inactive and new ones may have been registered.  That said, this will hopefully provide a clearer view at agency-, domain-, and branch-wide implementation of the Digital Analytics Program._  
+
+_For step 4, this step relies on automated scans to detect redirects.  Some sites that use client-side redirect methods may not be detected as redirecting.  
   
 _For steps 6.1, 7.1, and 8.1 - an '[ignore list](https://github.com/18F/g-analytics/blob/18f-pages/projects/dap-subdomain-report/assets/ignore-list.md)' was used to filter out subdomains that are not intended for public use, such as login pages, staging sites, and mail servers.  It's not feasible to completely filter out all subdomains that are not intended for public use though we will continue to refine the model.  If you have strings to suggest be added to the ignore list, please share them in the feedback links below._
 
