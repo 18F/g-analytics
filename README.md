@@ -23,6 +23,11 @@ Now located [here](https://github.com/18F/g-analytics/blob/master/status-trackin
 * API.Data.gov
 * DAP
 
+## Members
+* Gray Brooks
+* Tim Lowden
+* Lauren Ancona
+
 
 ## Public domain
 
