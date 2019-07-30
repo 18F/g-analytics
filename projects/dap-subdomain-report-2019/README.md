@@ -2,19 +2,16 @@
 ## Goals
 
 * Assemble a relatively complete list of federal subdomains from open source information.  
-* Use it to estimate the extent of Digital analytics Program (DAP) implementation and provide a list of subdomains that agencies can target for further implementation.  
-
-
-## Background 
-
-...
 
 
 ## Process
 
 Steps:  
-1) Download the [2016 end of term export](https://github.com/GSA/https/blob/master/compliance/m-15-13/data/eot-2016.csv) _([direct download](https://raw.githubusercontent.com/GSA/https/master/compliance/m-15-13/data/eot-2016.csv))_, [12-31-16 censys export](https://github.com/GSA/https/blob/master/compliance/m-15-13/data/censys-2016-12-31.csv) _([direct download](https://raw.githubusercontent.com/GSA/https/master/compliance/m-15-13/data/censys-2016-12-31.csv))_, 
+1) Download the [complete HTTPS scan results from pulse.cio.gov](https://pulse.cio.gov/data/hosts/https.json).  
+2) Convert it to a CSV.  I used http://www.convertcsv.com/json-to-csv.htm.  
+3) Upload the resulting CSV to Google Spreadsheets.  ([link](https://docs.google.com/spreadsheets/d/1MFgrAG-wYfctH_NYdZ71JkVZUQm6Bm5TYCrhurTM4xw/edit#gid=32666482)) _(25,491 results)_
+4) Remove unneeded columns
+5) Reorient columns for convenience
+6) Add Filtering
+8) 
 
-...
-
-[12-31-16 Digital Analytics Program export](https://github.com/GSA/https/blob/master/compliance/data/dap-2016-12-31.csv) _([direct download](https://raw.githubusercontent.com/GSA/https/master/compliance/data/dap-2016-12-31.csv))_, and [12-31-16 HTTPS report export](https://github.com/GSA/https/blob/master/compliance/data/parents-2016-12-31.csv) _([direct download](https://raw.githubusercontent.com/GSA/https/master/compliance/data/parents-2016-12-31.csv))_.  
