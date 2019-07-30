@@ -74,3 +74,11 @@ Other candidates for this list that we reviewed and are leaving off for now incl
 |  listserv | often have publicly browsable directories |
 |  qat |   often public sites  |
 
+
+
+New ideas to consider adding (2019):
+
+* local
+* auth
+* meetings 
+* signin
