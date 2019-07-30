@@ -19,29 +19,29 @@ Steps:
   c) Remove exact subdomains (label:ignore1; 1659 results); remove close matches (label:ignore2; 882 results)
 
 
+  
 
+_Interim Notes_   
 
-_Interim Notes_ 
-
-
-still lots more of:
-dev 
-edit
-email
-extranet
-mail
-mdm
-origin
-prod
-qa
-remote
-secure 
-sso
-stage
-staging
-stg
-test
-vdi
-webapp
+  
+still lots more of:  
+dev   
+edit  
+email 
+extranet  
+mail  
+mdm  
+origin  
+prod  
+qa  
+remote  
+secure   
+sso  
+stage  
+staging  
+stg  
+test  
+vdi  
+webapp  
 
 
