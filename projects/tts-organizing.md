@@ -55,7 +55,7 @@ To Do:
 * Add everyone else from PIF, Solutions, 18F, COE, and Offices.  
 * Weigh splitting out COE into another account 
 * Weigh splitting out a TTS Offices account 
-* Weigh doing a one time migration of properties from one canonical account to another (e.g. migrating the code.gov analytics from the PIF account into the Solutions/COE account)
+* Weigh doing a one time migration of properties from one canonical account to another (e.g. migrating the vote.usa.gov analytics from the PIF account into the Solutions/COE account)
 * Should we do anything with tag manager or optimize?
 
 
