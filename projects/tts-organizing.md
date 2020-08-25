@@ -1,4 +1,9 @@
 
+### Proposed Structure of GA accounts/properties
+
+Organization - Technology Transformation Services
+
+Within ^^^, Analytics Accounts - 18F, PIF, and Solutions/COE.
 
 ### TTS Organization in Google Analytics 
 
@@ -10,7 +15,7 @@
 * PIF
 * Solutions/COE
 
-_A full list of properties contained in each account is below._
+_A full list of properties contained in each account is [here](https://docs.google.com/spreadsheets/d/18xdFyIzKoZ7aQepVgBk_hl_GyDy5TZS-_0Q_INNOEwg/edit#gid=817756093)._
 
 ### User Groups 
 * 18F 
@@ -27,7 +32,18 @@ _A full list of properties contained in each account is below._
 * Timothy Lowden 
 
 
-### Processes/To Do
+#### Proposed Steps...
+
+* Data.gov team to create a property in the Solutions/COE and add the snippet to their code.  Optionally to consider phasing out the snippet from the REI account (note, the historical data would remain avialable forever, but then going forward, data would be available in the unified TTS organization). 
+* Digital.gov team to create a property in the Solutions/COE and add the snippet to their code.  Optionally to consider phasing out the snippet from the DigitaGov account (note, the historical data would remain avialable forever, but then going forward, data would be available in the unified TTS organization).  
+* Challenge.gov team to create a property in the Solutions/COE and add the snippet to their code.  Optionally to consider phasing out the snippet from the challenge.gov account (note, the historical data would remain avialable forever, but then going forward, data would be available in the unified TTS organization). 
+* Citizenscience.gov team to create a property in the Solutions/COE and add the snippet to their code.  Optionally to consider phasing out the snippet from the citizenscience.gov account (note, the historical data would remain avialable forever, but then going forward, data would be available in the unified TTS organization). 
+* Search.gov team to create a property in the Solutions/COE and add the snippet to their code.  Optionally to consider phasing out the snippet from the search.gov account (note, the historical data would remain avialable forever, but then going forward, data would be available in the unified TTS organization). 
+* usability.gov team to create a property in the Solutions/COE and add the snippet to their code.  Optionally to consider phasing out the snippet from the usability.gov account (note, the historical data would remain avialable forever, but then going forward, data would be available in the unified TTS organization). 
+* USA.gov team to create properties in the Solutions/COE and add the snippet to their code.  Optionally to consider phasing out the snippet from the USA.gov account (note, the historical data would remain avialable forever, but then going forward, data would be available in the unified TTS organization). 
+
+
+### Other Processes/To Do
 
 
 To Do:  
@@ -39,5 +55,10 @@ To Do:
 * Add everyone else from PIF, Solutions, 18F, COE, and Offices.  
 * Weigh splitting out COE into another account 
 * Weigh splitting out a TTS Offices account 
+* Weigh doing a one time migration of properties from one canonical account to another (e.g. migrating the code.gov analytics from the PIF account into the Solutions/COE account)
 * Should we do anything with tag manager or optimize?
+
+
+
+
 
